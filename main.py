@@ -19,8 +19,8 @@ init(autoreset=True)
 NO_BAN_KICK_ID = []
 
 PUB         = "||@everyone||  **# RAID BY VOID-NUKE**  :  discord.gg/W6z9SQgvqc  <https://github.com/v0id4real/Void-Nuke>"
-PUB_SHORT   = "discord.gg/dawa | github.com/v0id4real"
-DISCORD_URL = "https://discord.gg/dawa"
+PUB_SHORT   = "discord.gg/v0id | github.com/v0id4real"
+DISCORD_URL = "https://discord.gg/v0id"
 GITHUB_URL  = "https://github.com/v0id4real/Void-Nuke"
 RAID_NAME   = "raid-by-void"
 TOOL_NAME   = "VOID-NUKE"
